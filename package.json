@@ -1,0 +1,21 @@
+{
+  "name": "hexo-tag-autogallery",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "A tag plugin for Hexo that automatically generates gallery from files in given source directory",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "gallery",
+    "tag",
+    "plugin"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dotintegral/hexo-tag-autogallery.git"
+  },
+  "author": "Artur Siery",
+  "license": "MIT"
+}
